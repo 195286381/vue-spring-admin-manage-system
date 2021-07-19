@@ -1,4 +1,4 @@
-# 基于 Vue + SpringBoot 的前后端分离后台管理系统开发平台.
+# 基于 Vue + SpringBoot 的前后端分离后台管理系统开发平台
 
 ## 平台简介
 * 前端采用Vue、Element UI。
